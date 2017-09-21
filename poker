@@ -1,0 +1,3 @@
+Using Java code, create a poker game that will randomly deal you two cards 
+and give you an option to fold or keep on going. 
+The program will also tell you what hand you have if any.
